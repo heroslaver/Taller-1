@@ -1,5 +1,5 @@
 /*
- * Este programa es simula un shell
+ * Este programa simula un shell
  *
  * Modificado por: Sebastian Peñaranda Hurtado 
                    Miguel Ángel Ospina Hernández 
